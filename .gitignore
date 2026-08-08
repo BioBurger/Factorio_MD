@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But allow .gitignore itself
+!.gitignore
+
+# And allow the Factorio folder and its contents
+!Factorio/
+!Factorio/**/*
