@@ -1,9 +1,12 @@
-# Ignore everything
-*
+/*
+!/.gitignore
+!/Factorio/
+!/Factorio/**
 
-# But allow .gitignore itself
-!.gitignore
-
-# And allow the Factorio folder and its contents
-!Factorio/
-!Factorio/**/*
+# Extra safety: ignore common Windows/user-profile junk if it ever gets pulled in
+AppData/
+Application Data/
+Local Settings/
+Cookies/
+Temporary Internet Files/
+*.log

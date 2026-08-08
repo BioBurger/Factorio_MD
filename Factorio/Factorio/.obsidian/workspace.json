@@ -11,16 +11,13 @@
             "id": "ef19f439ad5a90f3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "Untitled"
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,9 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecd90e1fc019d9c4",
+  "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "Untitled.md",
     "Welcome.md"
   ]
 }
