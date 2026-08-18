@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"79278ad5a956e936","x":-220,"y":-160,"width":250,"height":60,"type":"text","text":"aaaa"}
+		{"id":"89f4d12f0d01a113","x":-620,"y":-560,"width":250,"height":60,"color":"4","type":"text","text":"electronic circuit"},
+		{"id":"649b28fd7f8b3fe6","x":-220,"y":-560,"width":250,"height":60,"color":"#ffffff","type":"text","text":"Plastic"},
+		{"id":"d5775558126f923f","x":-220,"y":-200,"width":250,"height":60,"color":"1","type":"text","text":"Advanced circuit | 1/6 s |"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9fc62b1766cb36d4","fromNode":"89f4d12f0d01a113","fromSide":"bottom","toNode":"d5775558126f923f","toSide":"top","label":"2x/s"},
+		{"id":"8ad7dd52f404929f","fromNode":"649b28fd7f8b3fe6","fromSide":"bottom","toNode":"d5775558126f923f","toSide":"top","label":"1x/s"}
+	]
 }
