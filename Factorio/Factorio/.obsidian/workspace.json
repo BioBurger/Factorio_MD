@@ -11,33 +11,13 @@
             "id": "ef19f439ad5a90f3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -95,
-                  "y": -130,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "f29b5e18ae0956a7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f29b5e18ae0956a7",
+  "active": "0736093d3bd6acc6",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled.canvas",
+    "Untitled.md",
     "Welcome.md"
   ]
 }
