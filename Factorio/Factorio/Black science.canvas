@@ -6,8 +6,11 @@
 		{"id":"eb7b77978c27e3fb","x":-35,"y":-640,"width":250,"height":60,"type":"text","text":"6 furnace"},
 		{"id":"c3f149b4e39481ac","x":-35,"y":-860,"width":250,"height":60,"type":"text","text":"13 miners 7.8/s"},
 		{"id":"8ea1324926babfee","x":359,"y":-387,"width":250,"height":60,"type":"text","text":"piercing mag-2factory == 0.5/s"},
-		{"id":"4f90237d00e31766","x":580,"y":-580,"width":250,"height":60,"type":"text","text":"steel"},
-		{"id":"45c8f4f99f785565","x":280,"y":-580,"width":250,"height":60,"type":"text","text":"1 sme copper plate"}
+		{"id":"4f90237d00e31766","x":580,"y":-580,"width":250,"height":60,"type":"text","text":"2 furnace steel"},
+		{"id":"45c8f4f99f785565","x":280,"y":-580,"width":250,"height":60,"type":"text","text":"1 smelter copper plate == 0.62/s"},
+		{"id":"270b9fdc8dc54667","x":280,"y":-780,"width":250,"height":60,"type":"text","text":"copper"},
+		{"id":"d3e553a85be36070","x":580,"y":-780,"width":250,"height":60,"type":"text","text":"2 furnace iron plate"},
+		{"id":"3b9394461c592168","x":580,"y":-960,"width":250,"height":60,"type":"text","text":"iron"}
 	],
 	"edges":[
 		{"id":"c21d661759a24bc1","fromNode":"6332e7dd1ddd216c","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.35/s"},
@@ -16,6 +19,9 @@
 		{"id":"9d2975222c3360a1","fromNode":"c3f149b4e39481ac","fromSide":"bottom","toNode":"eb7b77978c27e3fb","toSide":"top","label":"7.5/s"},
 		{"id":"9b3bed3bbbe495a4","fromNode":"8ea1324926babfee","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.35/s"},
 		{"id":"04a4e51d61c76d8c","fromNode":"4f90237d00e31766","fromSide":"bottom","toNode":"8ea1324926babfee","toSide":"top","label":"0.24/s"},
-		{"id":"e9c8cc1bc470fc58","fromNode":"45c8f4f99f785565","fromSide":"bottom","toNode":"8ea1324926babfee","toSide":"top","label":"0.5"}
+		{"id":"e9c8cc1bc470fc58","fromNode":"45c8f4f99f785565","fromSide":"bottom","toNode":"8ea1324926babfee","toSide":"top","label":"0.5"},
+		{"id":"30e39321cfdce5a7","fromNode":"270b9fdc8dc54667","fromSide":"bottom","toNode":"45c8f4f99f785565","toSide":"top","label":"0.62"},
+		{"id":"c9d6e3089b8207c7","fromNode":"d3e553a85be36070","fromSide":"bottom","toNode":"4f90237d00e31766","toSide":"top","label":"1.24"},
+		{"id":"02e0254758d44113","fromNode":"3b9394461c592168","fromSide":"bottom","toNode":"d3e553a85be36070","toSide":"top","label":"1.24"}
 	]
 }
