@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"8c02b9faa60e70f7","type":"text","text":"BS-5factory == 0.75/s","x":-63,"y":-126,"width":250,"height":60},
-		{"id":"6332e7dd1ddd216c","x":-520,"y":-460,"width":250,"height":56,"type":"text","text":"GRANATA == 8/s"}
+		{"id":"6332e7dd1ddd216c","type":"text","text":"GRANATA == 8/s","x":-520,"y":-460,"width":250,"height":56},
+		{"id":"4c381272c30b8bde","x":-35,"y":-416,"width":250,"height":60,"type":"text","text":"dja"}
 	],
 	"edges":[
 		{"id":"c21d661759a24bc1","fromNode":"6332e7dd1ddd216c","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.35/s"}
