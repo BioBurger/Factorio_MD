@@ -5,13 +5,17 @@
 		{"id":"4c381272c30b8bde","x":-35,"y":-416,"width":250,"height":60,"type":"text","text":"wall-1factory rabi 3.75/s"},
 		{"id":"eb7b77978c27e3fb","x":-35,"y":-640,"width":250,"height":60,"type":"text","text":"6 furnace"},
 		{"id":"c3f149b4e39481ac","x":-35,"y":-860,"width":250,"height":60,"type":"text","text":"13 miners 7.8/s"},
-		{"id":"8ea1324926babfee","x":359,"y":-387,"width":250,"height":60,"type":"text","text":"piercing mag"}
+		{"id":"8ea1324926babfee","x":359,"y":-387,"width":250,"height":60,"type":"text","text":"piercing mag-2factory == 0.5/s"},
+		{"id":"4f90237d00e31766","x":580,"y":-580,"width":250,"height":60,"type":"text","text":"steel"},
+		{"id":"45c8f4f99f785565","x":280,"y":-580,"width":250,"height":60,"type":"text","text":"1 sme copper plate"}
 	],
 	"edges":[
 		{"id":"c21d661759a24bc1","fromNode":"6332e7dd1ddd216c","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.35/s"},
 		{"id":"adb463428790463f","fromNode":"4c381272c30b8bde","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.75/s"},
 		{"id":"77c8d3e4ee93341e","fromNode":"eb7b77978c27e3fb","fromSide":"bottom","toNode":"4c381272c30b8bde","toSide":"top","label":"3.72/s"},
 		{"id":"9d2975222c3360a1","fromNode":"c3f149b4e39481ac","fromSide":"bottom","toNode":"eb7b77978c27e3fb","toSide":"top","label":"7.5/s"},
-		{"id":"9b3bed3bbbe495a4","fromNode":"8ea1324926babfee","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.35/s"}
+		{"id":"9b3bed3bbbe495a4","fromNode":"8ea1324926babfee","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.35/s"},
+		{"id":"04a4e51d61c76d8c","fromNode":"4f90237d00e31766","fromSide":"bottom","toNode":"8ea1324926babfee","toSide":"top","label":"0.24/s"},
+		{"id":"e9c8cc1bc470fc58","fromNode":"45c8f4f99f785565","fromSide":"bottom","toNode":"8ea1324926babfee","toSide":"top","label":"0.5"}
 	]
 }
