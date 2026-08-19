@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"8c02b9faa60e70f7","x":-63,"y":-126,"width":250,"height":60,"type":"text","text":"BS-5factory == 0.75/s"}
+		{"id":"8c02b9faa60e70f7","type":"text","text":"BS-5factory == 0.75/s","x":-63,"y":-126,"width":250,"height":60},
+		{"id":"6332e7dd1ddd216c","x":-520,"y":-460,"width":250,"height":56,"type":"text","text":"GRANATA == 8/s"}
 	],
 	"edges":[]
 }
