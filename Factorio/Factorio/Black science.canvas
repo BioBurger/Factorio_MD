@@ -2,9 +2,16 @@
 	"nodes":[
 		{"id":"8c02b9faa60e70f7","type":"text","text":"BS-5factory == 0.75/s","x":-63,"y":-126,"width":250,"height":60},
 		{"id":"6332e7dd1ddd216c","type":"text","text":"GRANATA == 8/s","x":-520,"y":-460,"width":250,"height":56},
-		{"id":"4c381272c30b8bde","x":-35,"y":-416,"width":250,"height":60,"type":"text","text":"dja"}
+		{"id":"4c381272c30b8bde","x":-35,"y":-416,"width":250,"height":60,"type":"text","text":"wall-1factory rabi 3.75/s"},
+		{"id":"eb7b77978c27e3fb","x":-35,"y":-640,"width":250,"height":60,"type":"text","text":"6 furnace"},
+		{"id":"c3f149b4e39481ac","x":-35,"y":-860,"width":250,"height":60,"type":"text","text":"13 miners 7.8/s"},
+		{"id":"8ea1324926babfee","x":359,"y":-387,"width":250,"height":60,"type":"text","text":"piercing mag"}
 	],
 	"edges":[
-		{"id":"c21d661759a24bc1","fromNode":"6332e7dd1ddd216c","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.35/s"}
+		{"id":"c21d661759a24bc1","fromNode":"6332e7dd1ddd216c","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.35/s"},
+		{"id":"adb463428790463f","fromNode":"4c381272c30b8bde","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.75/s"},
+		{"id":"77c8d3e4ee93341e","fromNode":"eb7b77978c27e3fb","fromSide":"bottom","toNode":"4c381272c30b8bde","toSide":"top","label":"3.72/s"},
+		{"id":"9d2975222c3360a1","fromNode":"c3f149b4e39481ac","fromSide":"bottom","toNode":"eb7b77978c27e3fb","toSide":"top","label":"7.5/s"},
+		{"id":"9b3bed3bbbe495a4","fromNode":"8ea1324926babfee","fromSide":"bottom","toNode":"8c02b9faa60e70f7","toSide":"top","label":"0.35/s"}
 	]
 }
