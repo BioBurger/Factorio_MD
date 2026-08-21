@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"a4fc88141d7bcd4e","x":-160,"y":180,"width":250,"height":60,"color":"6","type":"text","text":"Science 1/s | 10 assembler"},
+		{"id":"ce9bcfe6b90dc1f0","x":-160,"y":-65,"width":250,"height":60,"color":"1","type":"text","text":"productivity module"},
+		{"id":"64f0022e52c1f15c","x":260,"y":-65,"width":250,"height":60,"color":"5","type":"text","text":"electric furnace"},
+		{"id":"a31fa95402e2a944","x":-900,"y":20,"width":250,"height":60,"type":"text","text":"rail | 10 assembler"},
+		{"id":"4ce6f01730fd257d","x":-1240,"y":-333,"width":250,"height":60,"color":"#8a6a6a","type":"text","text":"stone"},
+		{"id":"8fee63a7d86cd766","x":-860,"y":-333,"width":250,"height":60,"type":"text","text":"iron stick"},
+		{"id":"e75b22690dc5e8f1","x":-540,"y":-333,"width":250,"height":60,"type":"text","text":"steel plate"}
+	],
+	"edges":[
+		{"id":"0765217337b73737","fromNode":"ce9bcfe6b90dc1f0","fromSide":"bottom","toNode":"a4fc88141d7bcd4e","toSide":"top","label":"1/s"},
+		{"id":"ae6ff81ed2d51460","fromNode":"a31fa95402e2a944","fromSide":"bottom","toNode":"a4fc88141d7bcd4e","toSide":"top","label":"30/s"},
+		{"id":"0aa8a8614eb9b161","fromNode":"64f0022e52c1f15c","fromSide":"bottom","toNode":"a4fc88141d7bcd4e","toSide":"top","label":"1/s"},
+		{"id":"e57860bb3f28ec3a","fromNode":"4ce6f01730fd257d","fromSide":"bottom","toNode":"a31fa95402e2a944","toSide":"top","label":"15/s"},
+		{"id":"afeaa3f07a279416","fromNode":"8fee63a7d86cd766","fromSide":"bottom","toNode":"a31fa95402e2a944","toSide":"top","label":"15/s"},
+		{"id":"dd34cab0e6899f53","fromNode":"e75b22690dc5e8f1","fromSide":"bottom","toNode":"a31fa95402e2a944","toSide":"top","label":"15/s"}
+	]
+}

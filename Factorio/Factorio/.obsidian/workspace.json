@@ -11,10 +11,17 @@
             "id": "ef19f439ad5a90f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Productio science pack.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.6666666666666666
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Productio science pack"
             }
           }
         ]
@@ -186,9 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0736093d3bd6acc6",
+  "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Black science.canvas",
+    "Productio science pack.canvas",
     "Untitled.md",
     "Welcome.md"
   ]
