@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"fd0baa76bceedf34","x":-220,"y":-40,"width":250,"height":60,"color":"4","type":"text","text":"AM3 0,5/s"}
+		{"id":"fd0baa76bceedf34","x":-220,"y":-40,"width":250,"height":60,"color":"4","type":"text","text":"AM3 1/s"},
+		{"id":"af0086cf2931f04c","x":-115,"y":-241,"width":250,"height":60,"type":"text","text":"Speed module 4/s"},
+		{"id":"9dbfba082a4bbb8c","x":-540,"y":-241,"width":250,"height":60,"color":"5","type":"text","text":"AM2 2/s"},
+		{"id":"b21c6f0e2ca3dddd","x":-674,"y":-433,"width":250,"height":60,"type":"text","text":"AM1 2/s"},
+		{"id":"e9707acf6432a720","x":-390,"y":-427,"width":250,"height":60,"type":"text","text":"Steal plate 4/s"},
+		{"id":"7dbcf52b1fc02e9f","x":-1005,"y":-416,"width":250,"height":60,"type":"text","text":"Iron gear 10/s"},
+		{"id":"3d5193d64b652f3f","x":-739,"y":-695,"width":250,"height":60,"type":"text","text":"Circuit 6/s"}
 	],
 	"edges":[]
 }
