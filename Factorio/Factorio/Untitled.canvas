@@ -2,11 +2,20 @@
 	"nodes":[
 		{"id":"fd0baa76bceedf34","x":-220,"y":-40,"width":250,"height":60,"color":"4","type":"text","text":"AM3 1/s"},
 		{"id":"af0086cf2931f04c","x":-115,"y":-241,"width":250,"height":60,"type":"text","text":"Speed module 4/s"},
-		{"id":"9dbfba082a4bbb8c","x":-540,"y":-241,"width":250,"height":60,"color":"5","type":"text","text":"AM2 2/s"},
-		{"id":"b21c6f0e2ca3dddd","x":-674,"y":-433,"width":250,"height":60,"type":"text","text":"AM1 2/s"},
-		{"id":"e9707acf6432a720","x":-390,"y":-427,"width":250,"height":60,"type":"text","text":"Steal plate 4/s"},
-		{"id":"7dbcf52b1fc02e9f","x":-1005,"y":-416,"width":250,"height":60,"type":"text","text":"Iron gear 10/s"},
-		{"id":"3d5193d64b652f3f","x":-739,"y":-695,"width":250,"height":60,"type":"text","text":"Circuit 6/s"}
+		{"id":"3d5193d64b652f3f","x":-925,"y":-820,"width":250,"height":60,"color":"4","type":"text","text":"Circuit 6/s"},
+		{"id":"9dbfba082a4bbb8c","x":-1120,"y":-211,"width":250,"height":60,"color":"5","type":"text","text":"AM2 2/s"},
+		{"id":"7dbcf52b1fc02e9f","x":-1320,"y":-790,"width":250,"height":60,"type":"text","text":"Iron gear "},
+		{"id":"b21c6f0e2ca3dddd","x":-800,"y":-530,"width":250,"height":60,"type":"text","text":"AM1"},
+		{"id":"e9707acf6432a720","x":-500,"y":-470,"width":250,"height":60,"type":"text","text":"Steal plate"},
+		{"id":"676d5dc7b49a0441","x":-500,"y":-820,"width":250,"height":60,"type":"text","text":"iron plate"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"5979c69d32f84418","fromNode":"b21c6f0e2ca3dddd","fromSide":"bottom","toNode":"9dbfba082a4bbb8c","toSide":"top","label":"2/s"},
+		{"id":"b2dde09ed487de45","fromNode":"7dbcf52b1fc02e9f","fromSide":"bottom","toNode":"9dbfba082a4bbb8c","toSide":"top","label":"10/s"},
+		{"id":"5ba3f734e81bbd68","fromNode":"e9707acf6432a720","fromSide":"bottom","toNode":"9dbfba082a4bbb8c","toSide":"top","label":"4/s"},
+		{"id":"cfd0e6e34e0c863e","fromNode":"7dbcf52b1fc02e9f","fromSide":"bottom","toNode":"b21c6f0e2ca3dddd","toSide":"top","label":"10/s"},
+		{"id":"7aa56bbc3fb530c5","fromNode":"3d5193d64b652f3f","fromSide":"bottom","toNode":"b21c6f0e2ca3dddd","toSide":"top","label":"6/s"},
+		{"id":"ac6aa808ce0f3fbc","fromNode":"3d5193d64b652f3f","fromSide":"bottom","toNode":"9dbfba082a4bbb8c","toSide":"top","label":"6/s"},
+		{"id":"98a0d0cbde58fc30","fromNode":"676d5dc7b49a0441","fromSide":"bottom","toNode":"b21c6f0e2ca3dddd","toSide":"top","label":"18/s"}
+	]
 }
