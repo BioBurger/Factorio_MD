@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Productio science pack.canvas",
+                "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -408.4234040631523,
-                  "y": -144.1652877144317,
-                  "zoom": -0.33333333333333365
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Productio science pack"
+              "title": "Untitled"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
-    "Black science.canvas",
     "Productio science pack.canvas",
+    "Untitled.canvas",
+    "Black science.canvas",
     "Untitled.md",
     "Welcome.md"
   ]
