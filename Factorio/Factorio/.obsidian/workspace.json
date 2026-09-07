@@ -13,18 +13,31 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "AM3.canvas",
                 "viewState": {
-                  "x": -418.5950538466765,
-                  "y": -452.9673413744405,
+                  "x": -477.3913951415966,
+                  "y": -222.82169884407847,
                   "zoom": -0.33333333333333365
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "AM3"
+            }
+          },
+          {
+            "id": "31474799c4c4f0b2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2026-09-07 17.41.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-07 17.41.44.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "57cbc7ae0731e8f9",
@@ -193,12 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef19f439ad5a90f3",
+  "active": "31474799c4c4f0b2",
   "lastOpenFiles": [
-    "Productio science pack.canvas",
-    "Untitled.canvas",
-    "Black science.canvas",
     "Untitled.md",
+    "Drawing 2026-09-07 17.41.44.excalidraw.md",
+    "AM3.canvas",
+    "Productio science pack.canvas",
+    "Black science.canvas",
     "Welcome.md"
   ]
 }
