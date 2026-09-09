@@ -1,6 +1,22 @@
 {
 	"nodes":[
-		{"id":"c355b4c80861e776","x":-321,"y":-135,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c355b4c80861e776","x":-560,"y":60,"width":250,"height":60,"type":"text","text":"blue belt"},
+		{"id":"0f8215d53dc48036","x":-880,"y":-100,"width":250,"height":60,"color":"1","type":"text","text":"red belt"},
+		{"id":"15a77b65e91e48e7","x":40,"y":-100,"width":250,"height":60,"color":"4","type":"text","text":"lubricant"},
+		{"id":"9ba47e420f4bc319","x":40,"y":-401,"width":250,"height":60,"color":"2","type":"text","text":"heavy oil"},
+		{"id":"ba606f51197939ff","x":-560,"y":-480,"width":250,"height":60,"type":"text","text":"iron gear"},
+		{"id":"ee5847b64bd1965d","x":-560,"y":-760,"width":250,"height":60,"type":"text","text":"iron plate"},
+		{"id":"e7a9958a7a7c7737","x":-880,"y":-341,"width":250,"height":60,"type":"text","text":"belt"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a4f038f8c6538215","fromNode":"15a77b65e91e48e7","fromSide":"bottom","toNode":"c355b4c80861e776","toSide":"top","label":"20"},
+		{"id":"62d6ac0274f79c07","fromNode":"ba606f51197939ff","fromSide":"bottom","toNode":"c355b4c80861e776","toSide":"top","label":"10"},
+		{"id":"b822ce3779a8666e","fromNode":"0f8215d53dc48036","fromSide":"bottom","toNode":"c355b4c80861e776","toSide":"top","label":"1"},
+		{"id":"8d79a5e35cb04f82","fromNode":"ee5847b64bd1965d","fromSide":"bottom","toNode":"ba606f51197939ff","toSide":"top","label":"32"},
+		{"id":"740aba9da55d771b","fromNode":"9ba47e420f4bc319","fromSide":"bottom","toNode":"15a77b65e91e48e7","toSide":"top"},
+		{"id":"3ff2fe6540933418","fromNode":"ba606f51197939ff","fromSide":"bottom","toNode":"0f8215d53dc48036","toSide":"top","label":"5"},
+		{"id":"59444bb503d1b6ca","fromNode":"ba606f51197939ff","fromSide":"bottom","toNode":"e7a9958a7a7c7737","toSide":"top","label":"1"},
+		{"id":"6b9b8f95c665459c","fromNode":"ee5847b64bd1965d","fromSide":"bottom","toNode":"e7a9958a7a7c7737","toSide":"top","label":"1"},
+		{"id":"a42d380e9dbc4a0e","fromNode":"e7a9958a7a7c7737","fromSide":"bottom","toNode":"0f8215d53dc48036","toSide":"top","label":"1"}
+	]
 }
