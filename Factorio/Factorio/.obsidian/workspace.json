@@ -15,8 +15,8 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -151,
-                  "y": -291.7890625,
+                  "x": 0,
+                  "y": 0,
                   "zoom": 0
                 }
               },
@@ -195,8 +195,9 @@
   },
   "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
-    "engine.canvas",
+    "blue belt.canvas",
     "Untitled.canvas",
+    "engine.canvas",
     "Black science.canvas",
     "Drawing 2026-09-07 17.41.44.excalidraw.md",
     "AM3.canvas",
