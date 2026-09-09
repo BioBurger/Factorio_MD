@@ -11,10 +11,17 @@
             "id": "ef19f439ad5a90f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -190,
+                  "y": -269,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -188,11 +195,12 @@
   },
   "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
+    "Black science.canvas",
+    "Untitled.canvas",
     "Drawing 2026-09-07 17.41.44.excalidraw.md",
     "AM3.canvas",
     "Untitled.md",
     "Productio science pack.canvas",
-    "Black science.canvas",
     "Welcome.md"
   ]
 }
