@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f64ef00773c57eb7","type":"text","text":"Engine","x":-315,"y":-299,"width":250,"height":60},
+		{"id":"e89f89b127b0ef84","x":-640,"y":-495,"width":250,"height":60,"type":"text","text":"Steel plate"},
+		{"id":"eb01939184640e03","x":-315,"y":-494,"width":250,"height":59,"type":"text","text":"iron gear"},
+		{"id":"6d6e9442b78873a6","x":40,"y":-495,"width":250,"height":60,"type":"text","text":"pipe"},
+		{"id":"bc97ad6b2319a48f","x":-315,"y":-760,"width":250,"height":60,"type":"text","text":"iron plate"}
+	],
+	"edges":[
+		{"id":"3758f982534fc9d6","fromNode":"e89f89b127b0ef84","fromSide":"bottom","toNode":"f64ef00773c57eb7","toSide":"top","label":"1"},
+		{"id":"421f12ac6d8154a6","fromNode":"eb01939184640e03","fromSide":"bottom","toNode":"f64ef00773c57eb7","toSide":"top","label":"1"},
+		{"id":"4ae2779f92bb859d","fromNode":"6d6e9442b78873a6","fromSide":"bottom","toNode":"f64ef00773c57eb7","toSide":"top","label":"2"},
+		{"id":"d5c50fa93c1cdc2a","fromNode":"bc97ad6b2319a48f","fromSide":"bottom","toNode":"e89f89b127b0ef84","toSide":"top","label":"5"},
+		{"id":"e82565900edbdf64","fromNode":"bc97ad6b2319a48f","fromSide":"bottom","toNode":"eb01939184640e03","toSide":"top","label":"2"},
+		{"id":"f4d129b8ee495945","fromNode":"bc97ad6b2319a48f","fromSide":"bottom","toNode":"6d6e9442b78873a6","toSide":"top","label":"1"}
+	]
+}
