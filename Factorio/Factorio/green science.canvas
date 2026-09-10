@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"abc741f4cb57e1fe","x":-220,"y":80,"width":250,"height":60,"color":"4","type":"text","text":"green science"},
+		{"id":"ea6ada6eab0443a3","x":-120,"y":-760,"width":250,"height":60,"color":"2","type":"text","text":"copper plate"},
+		{"id":"fd6682ba6c7d7868","x":-540,"y":-376,"width":250,"height":60,"color":"4","type":"text","text":"electric circuit"},
+		{"id":"9c88d6b4b38614c4","x":-560,"y":-600,"width":250,"height":60,"color":"2","type":"text","text":"copper wire"},
+		{"id":"23a366c60b07bb43","x":-415,"y":-143,"width":250,"height":60,"color":"3","type":"text","text":"inserter"},
+		{"id":"0d5efabd475ea410","x":130,"y":-113,"width":250,"height":60,"type":"text","text":"belt"},
+		{"id":"4b47309dc43a6fa6","x":160,"y":-630,"width":250,"height":60,"type":"text","text":"iron plate"},
+		{"id":"a6aabea312e46221","x":-20,"y":-300,"width":250,"height":60,"type":"text","text":"iron gear"}
+	],
+	"edges":[
+		{"id":"117e3696d8543b5c","fromNode":"23a366c60b07bb43","fromSide":"bottom","toNode":"abc741f4cb57e1fe","toSide":"top","label":"1"},
+		{"id":"d2b19b2ae6560582","fromNode":"0d5efabd475ea410","fromSide":"bottom","toNode":"abc741f4cb57e1fe","toSide":"top","label":"1"},
+		{"id":"b6142ac7d5af0a6b","fromNode":"a6aabea312e46221","fromSide":"bottom","toNode":"23a366c60b07bb43","toSide":"top","label":"1"},
+		{"id":"46e6c1a46128f981","fromNode":"fd6682ba6c7d7868","fromSide":"bottom","toNode":"23a366c60b07bb43","toSide":"top","label":"1"},
+		{"id":"8a7187159fa76fe4","fromNode":"4b47309dc43a6fa6","fromSide":"bottom","toNode":"23a366c60b07bb43","toSide":"top","label":"1"},
+		{"id":"2e1eeeeb3daf51f8","fromNode":"4b47309dc43a6fa6","fromSide":"bottom","toNode":"a6aabea312e46221","toSide":"top","label":"3"},
+		{"id":"4761f14e471dcdc6","fromNode":"4b47309dc43a6fa6","fromSide":"bottom","toNode":"fd6682ba6c7d7868","toSide":"top","label":"1"},
+		{"id":"409db22a06f8bff0","fromNode":"9c88d6b4b38614c4","fromSide":"bottom","toNode":"fd6682ba6c7d7868","toSide":"top","label":"3"},
+		{"id":"d3c5e41ef5197ff9","fromNode":"ea6ada6eab0443a3","fromSide":"bottom","toNode":"9c88d6b4b38614c4","toSide":"top","label":"1,5"},
+		{"id":"31286bc50d3830d8","fromNode":"a6aabea312e46221","fromSide":"bottom","toNode":"0d5efabd475ea410","toSide":"top","label":"0,5"},
+		{"id":"c8b3729f8bed0498","fromNode":"4b47309dc43a6fa6","fromSide":"bottom","toNode":"0d5efabd475ea410","toSide":"top","label":"1"}
+	]
+}

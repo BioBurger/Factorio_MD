@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "green science.canvas",
                 "viewState": {
-                  "x": -300.7857889810772,
-                  "y": -492.3958618718166,
-                  "zoom": -0.3333333333333334
+                  "x": 0,
+                  "y": -207.2890625,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "green science"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "57cbc7ae0731e8f9",
@@ -196,8 +195,9 @@
   },
   "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
+    "bulk inserter.canvas",
+    "green science.canvas",
     "Shells.canvas",
-    "Untitled.canvas",
     "AM3.canvas",
     "Black science.canvas",
     "blue belt.canvas",
