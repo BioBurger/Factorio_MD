@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "AM3.canvas",
+                "file": "Shells.canvas",
                 "viewState": {
-                  "x": -592.5,
-                  "y": -400,
-                  "zoom": -0.022255142089205125
+                  "x": 190,
+                  "y": -260,
+                  "zoom": -0.15930789406828344
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "AM3"
+              "title": "Shells"
             }
           }
         ]
@@ -195,14 +195,14 @@
   },
   "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
+    "AM3.canvas",
     "Black science.canvas",
     "blue belt.canvas",
     "Productio science pack.canvas",
-    "Untitled.canvas",
+    "Shells.canvas",
     "solid fuel.canvas",
     "engine.canvas",
     "Drawing 2026-09-07 17.41.44.excalidraw.md",
-    "AM3.canvas",
     "Untitled.md",
     "Welcome.md"
   ]
