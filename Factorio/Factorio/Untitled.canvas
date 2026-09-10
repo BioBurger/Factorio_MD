@@ -1,6 +1,33 @@
 {
 	"nodes":[
-		{"id":"82d60513e84236e4","x":-300,"y":-80,"width":250,"height":60,"color":"4","type":"text","text":"bulk inserter"}
+		{"id":"d4896996564768a1","x":-40,"y":-280,"width":250,"height":60,"color":"1","type":"text","text":"Advanced circuit"},
+		{"id":"722cb648833f6396","x":-720,"y":-280,"width":250,"height":60,"color":"5","type":"text","text":"fast inserter"},
+		{"id":"82d60513e84236e4","x":-200,"y":40,"width":250,"height":60,"color":"4","type":"text","text":"bulk inserter"},
+		{"id":"2c88946ec2df2107","x":-40,"y":-552,"width":250,"height":60,"color":"#ffffff","type":"text","text":"plastic"},
+		{"id":"58a9dfe7c9abef5e","x":-360,"y":-552,"width":250,"height":60,"color":"4","type":"text","text":"electronic circuit"},
+		{"id":"89917466dd2f9454","x":280,"y":-1120,"width":250,"height":60,"color":"2","type":"text","text":"copper plate"},
+		{"id":"e2e477f868716631","x":280,"y":-760,"width":250,"height":60,"color":"2","type":"text","text":"copper wire"},
+		{"id":"59c128cbb2bed471","x":-1020,"y":-492,"width":250,"height":60,"color":"3","type":"text","text":"inserter"},
+		{"id":"f95f24f4f35ef664","x":-200,"y":-1040,"width":250,"height":60,"type":"text","text":"iron  plate"},
+		{"id":"31319872c402c347","x":-770,"y":-920,"width":250,"height":60,"type":"text","text":"iron gear"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"01122c540a99ef98","fromNode":"58a9dfe7c9abef5e","fromSide":"bottom","toNode":"82d60513e84236e4","toSide":"top","label":"15"},
+		{"id":"b1d6c556f3f604a5","fromNode":"d4896996564768a1","fromSide":"bottom","toNode":"82d60513e84236e4","toSide":"top","label":"1"},
+		{"id":"9ec846954c72810d","fromNode":"31319872c402c347","fromSide":"bottom","toNode":"82d60513e84236e4","toSide":"top","label":"15"},
+		{"id":"69a31128e68c5c6c","fromNode":"722cb648833f6396","fromSide":"bottom","toNode":"82d60513e84236e4","toSide":"top","label":"1"},
+		{"id":"cffd32c126f6c801","fromNode":"f95f24f4f35ef664","fromSide":"bottom","toNode":"31319872c402c347","toSide":"top","label":"32"},
+		{"id":"6101ae68c5bac9c2","fromNode":"58a9dfe7c9abef5e","fromSide":"bottom","toNode":"d4896996564768a1","toSide":"top","label":"2"},
+		{"id":"e086c38d9a3e9b44","fromNode":"2c88946ec2df2107","fromSide":"bottom","toNode":"d4896996564768a1","toSide":"top","label":"2"},
+		{"id":"400103247715e736","fromNode":"e2e477f868716631","fromSide":"bottom","toNode":"d4896996564768a1","toSide":"top","label":"4"},
+		{"id":"2d9550e541b4a6da","fromNode":"89917466dd2f9454","fromSide":"bottom","toNode":"e2e477f868716631","toSide":"top","label":"7,5"},
+		{"id":"6ed118a8b6034072","fromNode":"f95f24f4f35ef664","fromSide":"bottom","toNode":"58a9dfe7c9abef5e","toSide":"top","label":"5"},
+		{"id":"06617a5a565b3209","fromNode":"e2e477f868716631","fromSide":"bottom","toNode":"58a9dfe7c9abef5e","toSide":"top","label":"15"},
+		{"id":"bb5fb157987f9c83","fromNode":"f95f24f4f35ef664","fromSide":"bottom","toNode":"722cb648833f6396","toSide":"top","label":"2"},
+		{"id":"346f592a4ac01a12","fromNode":"58a9dfe7c9abef5e","fromSide":"bottom","toNode":"722cb648833f6396","toSide":"top","label":"2"},
+		{"id":"6ead89875f0b7621","fromNode":"59c128cbb2bed471","fromSide":"bottom","toNode":"722cb648833f6396","toSide":"top","label":"1"},
+		{"id":"a3ca1549c396b1dc","fromNode":"f95f24f4f35ef664","fromSide":"bottom","toNode":"59c128cbb2bed471","toSide":"top","label":"1"},
+		{"id":"aa7d9709cd6d498d","fromNode":"58a9dfe7c9abef5e","fromSide":"bottom","toNode":"59c128cbb2bed471","toSide":"top","label":"1"},
+		{"id":"b0e170d24c00bb9b","fromNode":"31319872c402c347","fromSide":"bottom","toNode":"59c128cbb2bed471","toSide":"top","label":"1"}
+	]
 }
