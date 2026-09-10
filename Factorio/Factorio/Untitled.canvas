@@ -8,8 +8,8 @@
 		{"id":"e2e477f868716631","x":280,"y":-760,"width":250,"height":60,"color":"2","type":"text","text":"copper wire"},
 		{"id":"59c128cbb2bed471","x":-1020,"y":-492,"width":250,"height":60,"color":"3","type":"text","text":"inserter"},
 		{"id":"f95f24f4f35ef664","x":-200,"y":-1040,"width":250,"height":60,"type":"text","text":"iron  plate"},
-		{"id":"58a9dfe7c9abef5e","x":-325,"y":-582,"width":250,"height":60,"color":"4","type":"text","text":"electronic circuit"},
-		{"id":"31319872c402c347","x":-740,"y":-940,"width":250,"height":60,"type":"text","text":"iron gear"}
+		{"id":"31319872c402c347","x":-740,"y":-940,"width":250,"height":60,"type":"text","text":"iron gear"},
+		{"id":"58a9dfe7c9abef5e","x":-360,"y":-582,"width":250,"height":60,"color":"4","type":"text","text":"electronic circuit"}
 	],
 	"edges":[
 		{"id":"01122c540a99ef98","fromNode":"58a9dfe7c9abef5e","fromSide":"bottom","toNode":"82d60513e84236e4","toSide":"top","label":"15"},
