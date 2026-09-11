@@ -3,7 +3,7 @@
 		{"id":"582fa52b451fa109","type":"text","text":"advanced circuit","x":-160,"y":-49,"width":250,"height":60,"color":"1"},
 		{"id":"904cf70dd3c7e1ee","type":"text","text":"engine unit","x":-480,"y":-49,"width":250,"height":60},
 		{"id":"ac8560926f5f2246","type":"text","text":"sulfur","x":160,"y":-49,"width":250,"height":60,"color":"3"},
-		{"id":"e22b16b9e04796c3","type":"text","text":"Chemical science pack","x":-160,"y":280,"width":250,"height":60},
+		{"id":"e22b16b9e04796c3","type":"text","text":"Chemical science pack","x":-160,"y":280,"width":250,"height":60,"color":"5"},
 		{"id":"8ddcd0fb266a2745","x":-500,"y":-279,"width":250,"height":60,"color":"#fffafa","type":"text","text":"plastic"},
 		{"id":"e88bfa8dc4fff4c5","x":-175,"y":-279,"width":250,"height":60,"color":"4","type":"text","text":"elecronic circuit"},
 		{"id":"9a43802d89b3d05b","x":140,"y":-279,"width":250,"height":60,"color":"2","type":"text","text":"copper wire"}
