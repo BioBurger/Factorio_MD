@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Black science.canvas",
+                "file": "blue belt.canvas",
                 "viewState": {
-                  "x": 155,
-                  "y": -217.7434043339149,
-                  "zoom": -0.6666666666666666
+                  "x": -295,
+                  "y": -320,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Black science"
+              "title": "blue belt"
             }
           }
         ]
@@ -195,11 +195,12 @@
   },
   "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
+    "blue science.canvas",
+    "Black science.canvas",
     "green science.canvas",
     "bulk inserter.canvas",
     "Shells.canvas",
     "AM3.canvas",
-    "Black science.canvas",
     "blue belt.canvas",
     "Productio science pack.canvas",
     "solid fuel.canvas",
