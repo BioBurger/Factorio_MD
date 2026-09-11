@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"b1a804058ee615b5","x":-240,"y":400,"width":250,"height":60,"color":"3","type":"text","text":"Yellow science"},
+		{"id":"de4671f6487c95ba","x":461,"y":-406,"width":250,"height":60,"color":"4","type":"text","text":"lubricant"},
+		{"id":"f2fe15fecca4eee5","x":340,"y":200,"width":250,"height":60,"color":"3","type":"text","text":"LDS"},
+		{"id":"6aadd1099db18cc9","x":-890,"y":200,"width":250,"height":60,"color":"5","type":"text","text":"Procesing unit"},
+		{"id":"509b13355c83b5a6","x":-240,"y":170,"width":250,"height":60,"type":"text","text":"flying robot frame"},
+		{"id":"8dcbb3899e549cb0","x":-680,"y":-80,"width":250,"height":60,"type":"text","text":"steel plate"},
+		{"id":"a2e63a9be4170f15","x":-890,"y":-640,"width":250,"height":60,"type":"text","text":"iron plate"},
+		{"id":"f2eebab4a19d0af6","x":-430,"y":-140,"width":250,"height":60,"color":"5","type":"text","text":"battery"},
+		{"id":"7bcf9eb9f988aacc","x":-115,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"electronic circuit"},
+		{"id":"bb8764b1f3cda91a","x":-430,"y":-690,"width":250,"height":50,"color":"2","type":"text","text":"copper plate"},
+		{"id":"81f1f328a7b4e44e","x":-180,"y":-376,"width":250,"height":60,"color":"3","type":"text","text":"sulfuric acid"},
+		{"id":"382ac7dae12403e9","x":135,"y":-466,"width":250,"height":60,"color":"2","type":"text","text":"copper cable"},
+		{"id":"40ba4520babfec98","x":336,"y":-20,"width":250,"height":60,"type":"text","text":"electric engine unit"}
+	],
+	"edges":[
+		{"id":"19807d9963070121","fromNode":"509b13355c83b5a6","fromSide":"bottom","toNode":"b1a804058ee615b5","toSide":"top","label":"1/3"},
+		{"id":"a57f4288c22134ca","fromNode":"f2fe15fecca4eee5","fromSide":"bottom","toNode":"b1a804058ee615b5","toSide":"top","label":"1"},
+		{"id":"3b5e5c238865f42b","fromNode":"6aadd1099db18cc9","fromSide":"bottom","toNode":"b1a804058ee615b5","toSide":"top","label":"2/3"},
+		{"id":"8fd18131bf165252","fromNode":"8dcbb3899e549cb0","fromSide":"bottom","toNode":"509b13355c83b5a6","toSide":"top","label":"1/3"},
+		{"id":"f453fe58386e6f51","fromNode":"f2eebab4a19d0af6","fromSide":"bottom","toNode":"509b13355c83b5a6","toSide":"top","label":"2/3"},
+		{"id":"70017463095237f1","fromNode":"7bcf9eb9f988aacc","fromSide":"bottom","toNode":"509b13355c83b5a6","toSide":"top","label":"1"},
+		{"id":"e27fd0fcaf6e5b34","fromNode":"40ba4520babfec98","fromSide":"bottom","toNode":"509b13355c83b5a6","toSide":"top","label":"1/3"},
+		{"id":"57eedfe1131fc0c0","fromNode":"a2e63a9be4170f15","fromSide":"bottom","toNode":"8dcbb3899e549cb0","toSide":"top","label":"5/3"},
+		{"id":"6fc9fe1ef1523776","fromNode":"a2e63a9be4170f15","fromSide":"bottom","toNode":"f2eebab4a19d0af6","toSide":"top","label":"2/3"},
+		{"id":"ea255c5645dd61a5","fromNode":"bb8764b1f3cda91a","fromSide":"bottom","toNode":"f2eebab4a19d0af6","toSide":"top","label":"2/3"},
+		{"id":"7d7f067d89106639","fromNode":"81f1f328a7b4e44e","fromSide":"bottom","toNode":"f2eebab4a19d0af6","toSide":"top","label":"40/3"},
+		{"id":"2363a46169ab5fd7","fromNode":"a2e63a9be4170f15","fromSide":"bottom","toNode":"7bcf9eb9f988aacc","toSide":"top","label":"5/3"},
+		{"id":"81cacd38147fded5","fromNode":"382ac7dae12403e9","fromSide":"bottom","toNode":"7bcf9eb9f988aacc","toSide":"top","label":"5"},
+		{"id":"efe5590f863dd5fd","fromNode":"bb8764b1f3cda91a","fromSide":"bottom","toNode":"382ac7dae12403e9","toSide":"top","label":"1,5"},
+		{"id":"b84b5a1d554c3fe7","fromNode":"7bcf9eb9f988aacc","fromSide":"bottom","toNode":"40ba4520babfec98","toSide":"top","label":"2/3"},
+		{"id":"1b004e397fa5a6a7","fromNode":"de4671f6487c95ba","fromSide":"bottom","toNode":"40ba4520babfec98","toSide":"top","label":"5"}
+	]
+}

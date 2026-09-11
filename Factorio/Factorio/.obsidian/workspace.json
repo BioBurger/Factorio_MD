@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "blue science.canvas",
+                "file": "Utility science.canvas",
                 "viewState": {
-                  "x": 8,
-                  "y": 92.5,
-                  "zoom": 0
+                  "x": -2.3007278692725155,
+                  "y": -62.082748376507276,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "blue science"
+              "title": "Utility science"
             }
           }
         ]
@@ -195,6 +195,9 @@
   },
   "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
+    "Productio science pack.canvas",
+    "Utility science.canvas",
+    "blue science.canvas",
     "bulk inserter.canvas",
     "green science.canvas",
     "AM3.canvas",
@@ -202,9 +205,7 @@
     "solid fuel.canvas",
     "Shells.canvas",
     "engine.canvas",
-    "blue science.canvas",
     "blue belt.canvas",
-    "Productio science pack.canvas",
     "Drawing 2026-09-07 17.41.44.excalidraw.md",
     "Untitled.md",
     "Welcome.md"
