@@ -9,11 +9,11 @@
 		{"id":"7bcf9eb9f988aacc","x":-115,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"electronic circuit"},
 		{"id":"382ac7dae12403e9","x":135,"y":-466,"width":250,"height":60,"color":"2","type":"text","text":"copper cable"},
 		{"id":"40ba4520babfec98","x":336,"y":-20,"width":250,"height":60,"type":"text","text":"electric engine unit"},
-		{"id":"f2fe15fecca4eee5","x":385,"y":260,"width":250,"height":60,"color":"3","type":"text","text":"LDS"},
 		{"id":"bb8764b1f3cda91a","x":211,"y":-860,"width":250,"height":50,"color":"2","type":"text","text":"copper plate"},
 		{"id":"de4671f6487c95ba","x":336,"y":-316,"width":250,"height":60,"color":"4","type":"text","text":"lubricant"},
 		{"id":"81f1f328a7b4e44e","x":-80,"y":-376,"width":250,"height":60,"color":"3","type":"text","text":"sulfuric acid"},
-		{"id":"3e3850201a9e05a8","x":720,"y":-200,"width":250,"height":60,"color":"#fffafa","type":"text","text":"plastic"}
+		{"id":"3e3850201a9e05a8","x":720,"y":-200,"width":250,"height":60,"color":"#fffafa","type":"text","text":"plastic"},
+		{"id":"f2fe15fecca4eee5","x":420,"y":320,"width":250,"height":60,"color":"3","type":"text","text":"LDS"}
 	],
 	"edges":[
 		{"id":"19807d9963070121","fromNode":"509b13355c83b5a6","fromSide":"bottom","toNode":"b1a804058ee615b5","toSide":"top","label":"1/3"},
