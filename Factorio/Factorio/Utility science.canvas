@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"b1a804058ee615b5","x":-240,"y":400,"width":250,"height":60,"color":"3","type":"text","text":"Yellow science"},
 		{"id":"6aadd1099db18cc9","x":-890,"y":200,"width":250,"height":60,"color":"5","type":"text","text":"Procesing unit"},
-		{"id":"509b13355c83b5a6","x":-240,"y":170,"width":250,"height":60,"type":"text","text":"flying robot frame"},
 		{"id":"8dcbb3899e549cb0","x":-680,"y":-80,"width":250,"height":60,"type":"text","text":"steel plate"},
 		{"id":"a2e63a9be4170f15","x":-890,"y":-640,"width":250,"height":60,"type":"text","text":"iron plate"},
 		{"id":"f2eebab4a19d0af6","x":-430,"y":-140,"width":250,"height":60,"color":"5","type":"text","text":"battery"},
@@ -13,7 +12,8 @@
 		{"id":"de4671f6487c95ba","x":336,"y":-316,"width":250,"height":60,"color":"4","type":"text","text":"lubricant"},
 		{"id":"81f1f328a7b4e44e","x":-80,"y":-376,"width":250,"height":60,"color":"3","type":"text","text":"sulfuric acid"},
 		{"id":"3e3850201a9e05a8","x":720,"y":-200,"width":250,"height":60,"color":"#fffafa","type":"text","text":"plastic"},
-		{"id":"f2fe15fecca4eee5","x":420,"y":320,"width":250,"height":60,"color":"3","type":"text","text":"LDS"}
+		{"id":"f2fe15fecca4eee5","x":420,"y":320,"width":250,"height":60,"color":"3","type":"text","text":"LDS"},
+		{"id":"509b13355c83b5a6","x":-240,"y":200,"width":250,"height":60,"type":"text","text":"flying robot frame"}
 	],
 	"edges":[
 		{"id":"19807d9963070121","fromNode":"509b13355c83b5a6","fromSide":"bottom","toNode":"b1a804058ee615b5","toSide":"top","label":"1/3"},
