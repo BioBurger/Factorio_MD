@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"07fd1b5929030569","x":-160,"y":140,"width":250,"height":60,"color":"1","type":"text","text":"big mining drill"},
+		{"id":"f6673751073a5be6","x":-320,"y":-100,"width":250,"height":60,"color":"5","type":"text","text":"electric drill"},
+		{"id":"0b07dd1215f2e9a3","x":20,"y":-100,"width":250,"height":60,"color":"6","type":"text","text":"tungsten carbide"},
+		{"id":"635375c35f0dc81b","x":329,"y":-100,"width":250,"height":60,"color":"1","type":"text","text":"electric engine"},
+		{"id":"890bc3a5cc05c0b8","x":640,"y":-100,"width":250,"height":60,"color":"1","type":"text","text":"advanced circuit"},
+		{"id":"45b814b1dda3238a","x":-123,"y":-416,"width":250,"height":60,"color":"4","type":"text","text":"electronic circuit"},
+		{"id":"424ee9607440aec3","x":-1120,"y":-800,"width":250,"height":50,"type":"text","text":"molten iron"},
+		{"id":"bc51fd10da6d7fd9","x":-870,"y":-300,"width":250,"height":60,"type":"text","text":"iron gear"},
+		{"id":"7f309388aeb87e5c","x":-445,"y":-800,"width":250,"height":60,"type":"text","text":"iron plate"},
+		{"id":"87936276bd8bfdba","x":-123,"y":-800,"width":250,"height":60,"color":"2","type":"text","text":"copper wire"},
+		{"id":"43bb6714a13c60b9","x":192,"y":-359,"width":250,"height":60,"type":"text","text":"tungsten ore"}
+	],
+	"edges":[
+		{"id":"8ad5b8a3c7fdbabe","fromNode":"424ee9607440aec3","fromSide":"bottom","toNode":"07fd1b5929030569","toSide":"top","label":"200"},
+		{"id":"8fd1562146dfafa3","fromNode":"f6673751073a5be6","fromSide":"bottom","toNode":"07fd1b5929030569","toSide":"top","label":"1"},
+		{"id":"478b85232d59a5c1","fromNode":"0b07dd1215f2e9a3","fromSide":"bottom","toNode":"07fd1b5929030569","toSide":"top","label":"20"},
+		{"id":"93e6e833701d5c85","fromNode":"635375c35f0dc81b","fromSide":"bottom","toNode":"07fd1b5929030569","toSide":"top","label":"10"},
+		{"id":"ab85c6c52b964355","fromNode":"890bc3a5cc05c0b8","fromSide":"bottom","toNode":"07fd1b5929030569","toSide":"top","label":"10"},
+		{"id":"9e034bf07bdad471","fromNode":"bc51fd10da6d7fd9","fromSide":"bottom","toNode":"f6673751073a5be6","toSide":"top","label":"5"},
+		{"id":"27bd072a33ca03e7","fromNode":"7f309388aeb87e5c","fromSide":"bottom","toNode":"f6673751073a5be6","toSide":"top","label":"10"},
+		{"id":"a7cc2ffc5746d915","fromNode":"45b814b1dda3238a","fromSide":"bottom","toNode":"f6673751073a5be6","toSide":"top","label":"3"},
+		{"id":"047f90597c60c7dd","fromNode":"7f309388aeb87e5c","fromSide":"bottom","toNode":"45b814b1dda3238a","toSide":"top","label":"3"},
+		{"id":"126f9c89536210ff","fromNode":"87936276bd8bfdba","fromSide":"bottom","toNode":"45b814b1dda3238a","toSide":"top","label":"9"}
+	]
+}
