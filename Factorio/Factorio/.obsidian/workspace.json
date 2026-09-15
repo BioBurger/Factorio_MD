@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "big mining drill.canvas",
+                "file": "Metalluric science.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.6666666666666666
+                  "x": -5,
+                  "y": -268,
+                  "zoom": -0.18610795341199868
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "big mining drill"
+              "title": "Metalluric science"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "ef19f439ad5a90f3",
   "lastOpenFiles": [
-    "Metalluric science.canvas",
     "big mining drill.canvas",
+    "Metalluric science.canvas",
     "Utility science.canvas",
     "Productio science pack.canvas",
     "blue science.canvas",
