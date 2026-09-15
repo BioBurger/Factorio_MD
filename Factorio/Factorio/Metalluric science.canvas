@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"52ede8be0a5cc232","x":-160,"y":100,"width":250,"height":60,"color":"2","type":"text","text":"Metalluric science"},
+		{"id":"32ace6058f1f011c","x":-320,"y":-376,"width":250,"height":63,"color":"6","type":"text","text":"tungsten plate"},
+		{"id":"f8de97dbdff5cc1a","x":-160,"y":-630,"width":250,"height":60,"color":"6","type":"text","text":"tungsten ore"},
+		{"id":"8f542c7ad1a07f93","x":-520,"y":-636,"width":250,"height":60,"type":"text","text":"molten iron"},
+		{"id":"9d00d3e0171b1eb6","x":-820,"y":-500,"width":250,"height":60,"color":"2","type":"text","text":"molten copper"},
+		{"id":"0c4325c533f4693b","x":260,"y":-203,"width":250,"height":60,"color":"6","type":"text","text":"tungsten carbide"},
+		{"id":"d35db226eb6605f8","x":260,"y":-530,"width":250,"height":60,"type":"text","text":"carbon"},
+		{"id":"b3abe829d064ad59","x":260,"y":-696,"width":250,"height":60,"type":"text","text":"coal"},
+		{"id":"f7722621d849cff3","x":560,"y":-696,"width":250,"height":60,"color":"3","type":"text","text":"sulfiric acid"}
+	],
+	"edges":[
+		{"id":"f7c03ec9f8f732f8","fromNode":"9d00d3e0171b1eb6","fromSide":"bottom","toNode":"52ede8be0a5cc232","toSide":"top","label":"200"},
+		{"id":"caa7e5f58ee5e5b5","fromNode":"32ace6058f1f011c","fromSide":"bottom","toNode":"52ede8be0a5cc232","toSide":"top","label":"2"},
+		{"id":"c543e3f2d57cb8c7","fromNode":"0c4325c533f4693b","fromSide":"bottom","toNode":"52ede8be0a5cc232","toSide":"top","label":"3"},
+		{"id":"9323c6a50edc135b","fromNode":"8f542c7ad1a07f93","fromSide":"bottom","toNode":"32ace6058f1f011c","toSide":"top","label":"20"},
+		{"id":"616df130e56725db","fromNode":"f8de97dbdff5cc1a","fromSide":"bottom","toNode":"32ace6058f1f011c","toSide":"top","label":"8"},
+		{"id":"d741c983573198ef","fromNode":"f7722621d849cff3","fromSide":"bottom","toNode":"0c4325c533f4693b","toSide":"top","label":"30"},
+		{"id":"1ba792809b14551a","fromNode":"f8de97dbdff5cc1a","fromSide":"bottom","toNode":"0c4325c533f4693b","toSide":"top","label":"6"},
+		{"id":"c45e06cdca49b917","fromNode":"d35db226eb6605f8","fromSide":"bottom","toNode":"0c4325c533f4693b","toSide":"top","label":"3"},
+		{"id":"fc577bc44206f588","fromNode":"b3abe829d064ad59","fromSide":"bottom","toNode":"d35db226eb6605f8","toSide":"top","label":"6"},
+		{"id":"a500a4feaee96aa9","fromNode":"f7722621d849cff3","fromSide":"bottom","toNode":"d35db226eb6605f8","toSide":"top","label":"60"}
+	]
+}
