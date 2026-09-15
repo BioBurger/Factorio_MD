@@ -2,14 +2,17 @@
 	"nodes":[
 		{"id":"7d56b2d982c42169","x":-200,"y":60,"width":250,"height":60,"type":"text","text":"Petrolium"},
 		{"id":"abbc17b3f31ef5f4","x":-220,"y":-760,"width":250,"height":60,"type":"text","text":"coal liquefacation"},
-		{"id":"ce32c284b0f57219","x":180,"y":-300,"width":250,"height":60,"color":"3","type":"text","text":"light oil"},
-		{"id":"6b374094776eab56","x":-500,"y":-440,"width":250,"height":60,"color":"2","type":"text","text":"heavy oil"},
-		{"id":"e0bb5b3ee54bb109","x":-750,"y":-760,"width":250,"height":60,"color":"5","type":"text","text":"water"}
+		{"id":"c08b5185ae644a0e","x":-420,"y":-360,"width":250,"height":60,"color":"2","type":"text","text":"heavy oil craking"},
+		{"id":"e0bb5b3ee54bb109","x":-700,"y":-640,"width":250,"height":60,"color":"5","type":"text","text":"water"},
+		{"id":"ce32c284b0f57219","x":180,"y":-200,"width":250,"height":60,"color":"3","type":"text","text":"light oil craking"}
 	],
 	"edges":[
 		{"id":"0a334b0034172531","fromNode":"abbc17b3f31ef5f4","fromSide":"bottom","toNode":"7d56b2d982c42169","toSide":"top","label":"2"},
-		{"id":"1d5d614e03bca30e","fromNode":"ce32c284b0f57219","fromSide":"bottom","toNode":"7d56b2d982c42169","toSide":"top"},
-		{"id":"6f3df9cab6c23b1d","fromNode":"abbc17b3f31ef5f4","fromSide":"bottom","toNode":"6b374094776eab56","toSide":"top","label":"18"},
-		{"id":"19ddcd1da6a41daf","fromNode":"abbc17b3f31ef5f4","fromSide":"bottom","toNode":"ce32c284b0f57219","toSide":"top","label":"4"}
+		{"id":"1d5d614e03bca30e","fromNode":"ce32c284b0f57219","fromSide":"bottom","toNode":"7d56b2d982c42169","toSide":"top","label":"11,6"},
+		{"id":"19ddcd1da6a41daf","fromNode":"abbc17b3f31ef5f4","fromSide":"bottom","toNode":"ce32c284b0f57219","toSide":"top","label":"4"},
+		{"id":"430992ecfae8dac1","fromNode":"e0bb5b3ee54bb109","fromSide":"bottom","toNode":"c08b5185ae644a0e","toSide":"top","label":"13.5"},
+		{"id":"4ab6de7cf05c80f3","fromNode":"abbc17b3f31ef5f4","fromSide":"bottom","toNode":"c08b5185ae644a0e","toSide":"top","label":"18"},
+		{"id":"8f6069f641ba84c8","fromNode":"c08b5185ae644a0e","fromSide":"bottom","toNode":"ce32c284b0f57219","toSide":"top","label":"13.5"},
+		{"id":"93575bd090680b33","fromNode":"e0bb5b3ee54bb109","fromSide":"bottom","toNode":"ce32c284b0f57219","toSide":"top","label":"13.5"}
 	]
 }
