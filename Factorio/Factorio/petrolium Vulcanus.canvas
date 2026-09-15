@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"7d56b2d982c42169","x":-200,"y":60,"width":250,"height":60,"type":"text","text":"Petrolium"},
+		{"id":"abbc17b3f31ef5f4","x":-620,"y":-240,"width":250,"height":60,"type":"text","text":"coal liquefacation"},
+		{"id":"ce32c284b0f57219","x":-169,"y":-232,"width":250,"height":60,"type":"text","text":"light oil"}
+	],
+	"edges":[
+		{"id":"0a334b0034172531","fromNode":"abbc17b3f31ef5f4","fromSide":"bottom","toNode":"7d56b2d982c42169","toSide":"top","label":"2"}
+	]
+}
